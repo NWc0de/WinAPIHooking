@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(52,34): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'LONG'
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(52,34): warning C4302: 'type cast': truncation from 'HMODULE' to 'LONG'
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(56,76): warning C4312: 'type cast': conversion from 'LONG' to 'PIMAGE_NT_HEADERS' of greater size
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(60,140): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_IMPORT_DESCRIPTOR' of greater size
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(64,6): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(70,86): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_THUNK_DATA' of greater size
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(71,91): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_THUNK_DATA' of greater size
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(84,58): warning C4311: 'type cast': pointer truncation from 'BOOL (__cdecl *)(HANDLE,LPWIN32_FIND_DATAW)' to 'DWORD'
+C:\Users\SLitt\source\repos\MaliciousDLL\MaliciousDLL\dllmain.cpp(84,58): warning C4302: 'type cast': truncation from 'BOOL (__cdecl *)(HANDLE,LPWIN32_FIND_DATAW)' to 'DWORD'
+  MaliciousDLL.vcxproj -> C:\Users\SLitt\source\repos\MaliciousDLL\x64\Debug\MaliciousDLL.dll
